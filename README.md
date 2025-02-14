@@ -29,3 +29,7 @@ Project Set Up
 8.	Change the folder upload location of mentioned as UPLOAD_FOLDER in Constants.java(com.elearning.util package) to a folder location in your computer.
 9.	Run the project as; right click on project -> Run as -> Run on Server -> select Apache Tomcat Server v9.0 at localhost -> add the project to server and click finish.
 10.	Project should run on the url: http://localhost:8085/ELearning/
+
+Large File Download
+The large file is too big to be stored in the repository. You can download it from the Releases section:
+Download Large File from Releases
