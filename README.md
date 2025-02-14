@@ -1,3 +1,5 @@
+A system which facilitates academic needs of a university due to covid-19 pandemic situation.
+Functionalities of the system are as follows;
 
 Functionalities of the system are as follows;
 
