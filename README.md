@@ -18,6 +18,14 @@ Functionalities of the system are as follows;
 Backend - Spring MVC, Spring JDBC with Oracle SQL Server Front end - HTML, CSS, JS, Bootstrap
 
 Tools - Eclipse IDE for Java EE developers 2021-12 version , Apache Tomcat Server 9.0.55 , Oracle Database Express Edition03.05.1994
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Large File Download
+The large file is too big to be stored in the repository. You can download it from the Releases section:
+
+Download Large File from Releases-https://github.com/gayandrshn/E-Learnings/releases/tag/e
+
+--------------------------------------------------------------------------------------------------
 Project Set Up
 1.	Clone the project from Github.
 2.	Import to eclipse workspace as a maven project.
@@ -30,6 +38,4 @@ Project Set Up
 9.	Run the project as; right click on project -> Run as -> Run on Server -> select Apache Tomcat Server v9.0 at localhost -> add the project to server and click finish.
 10.	Project should run on the url: http://localhost:8085/ELearning/
 
-Large File Download
-The large file is too big to be stored in the repository. You can download it from the Releases section:
-Download Large File from Releases
+
